@@ -1,12 +1,14 @@
 # Vortex-Rev-Social-Network-Website
-This is a social network website with full functionality of a social network website
+
+This is a social network website with full functionality of a social network website. 
+FOR SECURITY REASONS THE CONFIG FILE IS CHANGED SO THE CONFIDENTIALITY OF THE DATABSE WILLL BE KEPT.
 1) Description
+
 VortexRev is a full scale and responsive social networking website. It
 includes features such as newsfeed, picture posting, profiles, friend
 system, chat system, trending hashtags and much more ! This social
 website can connect people, students and can be used to discuss any kind
-of project or just to waste some time on the internet with your friends.URL =
-www.socialnetwork.vlad-hilea.com !
+of project or just to waste some time on the internet with your friends.
 The social media uses the latest technologies , which improves the
 protection of the database. It includes password encryption and, also it
 contains email verification, which protect users against fake accounts !
