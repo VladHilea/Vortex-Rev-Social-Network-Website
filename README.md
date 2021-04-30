@@ -1,7 +1,7 @@
 # Vortex-Rev-Social-Network-Website
 
 This is a social network website with full functionality of a social network website. 
-FOR SECURITY REASONS THE CONFIG FILE IS CHANGED SO THE CONFIDENTIALITY OF THE DATABSE WILLL BE KEPT.
+
 1) Description
 
 VortexRev is a full scale and responsive social networking website. It
