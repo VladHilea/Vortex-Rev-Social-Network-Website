@@ -36,7 +36,7 @@ use social media website.
 - Profile Description
 - Post on profile
 - Progressive Web Apps Features
--
+
 3) Programming Languages and frameworks
 used. Security .
 VortexRev uses the latest technologies of global web design
